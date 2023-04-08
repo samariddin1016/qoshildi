@@ -1,0 +1,23 @@
+.flex-container {
+    padding: 20px;
+    background-color: green;
+    border-radius: 10px;
+    display: flex;
+    height: 200px;
+    align-items: flex-end;
+}
+
+.flex-item {
+    padding: 20px 60px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.flex-basis-300 {
+    flex-basis: 300px;
+}
+
+.align-self {
+    align-self: stretch;
+}
